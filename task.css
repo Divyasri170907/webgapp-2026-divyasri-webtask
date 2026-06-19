@@ -1,0 +1,88 @@
+
+   .photo{
+       
+        width: 1000px;
+        height: 300px;
+        margin-left: 250px;
+        margin-top: 20px;
+        padding:20px;
+       
+   }
+   .box1{
+    height: 230px;
+    width: 1000px;
+    border: 2px solid black;
+    background-color: white;
+    margin-left: 270px;
+    border-left: 10px solid blue;
+    border-top:20px solid gray; 
+    margin-bottom:20px;
+    h2{
+        border:1px solid black;
+        width:95%;
+    }
+   h1{
+
+padding:2px;
+margin-left: 20px;
+   }
+   h4{
+      padding-top:20px;
+      margin-left: 20px;
+      margin-bottom: 0%;
+   }
+   p{
+    margin-left: 20px;
+    
+   }
+   }
+    .box2{
+        height: 95px;
+        width:965px;
+        border:2px solid black;
+        background-color: white;
+        margin-left: 270px;
+        border-top:2px solid black;
+        border-left:10px solid blue;
+        padding-top: 20px solid black;
+        padding:20px;
+        label,input{
+            margin-left: 20px;
+        }
+    }
+    .box3{
+        height:100px;
+        width:1010px;
+        background-color:white;
+        border:2px solid black;
+        margin-left: 270px;
+        margin-top:20px;
+    p,h3{
+        margin-left: 20px;
+    }
+        
+    }
+    .box4{
+        height:80px;
+        width:969px;
+        background-color: white;
+        border:2px solid black;
+        margin-left: 270px;
+        margin-top:20px;
+        padding:20px;
+
+
+
+    }
+    
+         
+
+
+
+
+        
+    
+   
+
+    
+   

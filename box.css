@@ -1,0 +1,37 @@
+.one{
+    color:brown;
+    back-groundcolor:black;
+    text-align:center ;
+    height: 200px;
+    width:500px;
+    padding:20px;
+    margin: 30px;
+    border: 20px solid blue;
+}
+.two{
+    color: aqua;
+    background-color: blueviolet;
+    padding: 50px;
+    border: 50px solid greenyellow ;
+    margin-left: 20px;
+    text-align: left;
+}
+h2{
+    background-color: blue;
+    text-align: justify;
+    text-decoration: line-through;
+}
+h3{
+    color: pink;
+    background-color: aqua;
+    margin-top: 20px;
+}
+p{
+    background-color: brown;
+
+}
+table{
+     border-color: brown;
+     margin: 20px;
+     padding: 20px;
+}

@@ -1,0 +1,15 @@
+.box1{
+    position:static ;
+    background-color:blue;
+}
+.box2{
+    position: relative;
+    left: 50px;
+    background-color:balck;
+}
+.box3{
+    position: fixed;
+    top: 20px;
+    right:20px;
+    background-color: blueviolet;
+}
