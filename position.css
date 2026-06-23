@@ -1,0 +1,35 @@
+.box1{
+    position:static;
+    background-color: orangered;
+
+}
+.box2{
+    position: relative;
+    background-color: aqua;
+    width: 200px;
+    height: 299px;
+    left: 50px;
+    top: 20px;
+}
+.box3{
+    position: fixed;
+    background-color: blue;
+    width: 100px;
+    height:100px;
+    right:20px;
+}
+.box4{
+    position:absolute;
+    background-color: brown;
+    width: 100px;
+    height:100px;
+    top:450px;
+    left:50px;  
+
+}.box5{
+    position: sticky;
+    background-color: bisque;
+    color: black;
+    padding: 20px;
+    top:50px;
+}
